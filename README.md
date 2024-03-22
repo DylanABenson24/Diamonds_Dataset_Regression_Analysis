@@ -12,9 +12,16 @@ This repository contains a Jupyter notebook that demonstrates the process of per
 - Scikit-learn 1.10.2
 - Jupyter 1.12.0
 
+## License
+This project is licensed under the MIT License.
+
+## Authors
+Dylan Benson
+
 ## Usage
 
 1. Clone this repository:
 
 ```bash
 git clone https://github.com/DylanABenson24/diamonds-regression.git
+
